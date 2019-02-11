@@ -18,16 +18,13 @@ npm install
 ### 2) Create in the root the .env file and paste this code:
 
 ```js
-PORT=YOUR_PORT
-DB_HOST='mongodb://localhost:27017/YOUR_DATABASE'
+PORT=5000
+DB_HOST='mongodb://miguel:aDErUJAzzMLCLvov@34.215.126.22:27017/miguel'
+USER_INSTAGRAM=ayhg7004
+PASS_INSTAGRAM=ayhg7004.
 ```
 
-## Run Local
-```bash
-npm run start-dev
-```
-
-## Run Production
+## Run
 ```bash
 npm start
 ```
