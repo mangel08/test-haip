@@ -30,7 +30,7 @@ npm start
 ```
 ## Testing
 
-### Users
-1. getUsers METHOD GET http://YOUR_HOST:YOUR_PORT/api/v1/users
-2. getUser METHOD GET http://YOUR_HOST:YOUR_PORT/api/v1/user/:userId
+### Endpoints Influencers
+1. getInfluencers METHOD GET http://YOUR_HOST:YOUR_PORT/api/v1/influencers
+2. getInfluencer METHOD GET http://YOUR_HOST:YOUR_PORT/api/v1/influencer/:userId
 
